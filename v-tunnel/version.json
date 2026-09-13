@@ -3,6 +3,6 @@
   "versionName": "1.0",
   "force": true,
   "comment": "",
-  "downloadUrl": "https://drive.usercontent.google.com/download?id=13WQpG40PcZYMFZcVn_pz_kmc4zcVDzJq&export=download",
+  "downloadUrl": "https://drive.google.com/drive/folders/1hyk6bRb16M-zCZR80RAqckpX3n4JaPug",
   "changelog": "• Perbaikan kompatibilitas libcloudflared\n• Optimasi alokasi RAM biner PHP\n• Peningkatan keamanan koneksi tunnel"
 }
