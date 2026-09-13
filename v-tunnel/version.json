@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.3",
+  "versionCode": 1,
+  "versionName": "1.0",
   "force": true,
-  "comment": "Pembaruan wajib: perbaikan keamanan dan stabilitas tunnel.",
+  "comment": "Selamat datang: V-Tunnel by Vall.pw",
   "downloadUrl": "https://drive.usercontent.google.com/download?id=ID_FILE_GOOGLE_DRIVE&export=download",
   "changelog": "• Perbaikan kompatibilitas libcloudflared\n• Optimasi alokasi RAM biner PHP\n• Peningkatan keamanan koneksi tunnel"
 }
